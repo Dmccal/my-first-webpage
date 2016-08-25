@@ -1,7 +1,7 @@
 body {
-  background: linear-gradient(red, blue);
-  padding-left: auto;
-  padding-right: auto;
+    background: linear-gradient(red, blue);
+    padding-left: auto;
+    padding-right: auto;
 }
 
 h1 {
@@ -16,16 +16,16 @@ p {
     color: white;
 }
 a:link {
-  color: blue;
-  text-decoration: none;
+    color: blue;
+    text-decoration: none;
 }
 a:visited {
-  color: red;
-  text-decoration:none;
+    color: red;
+    text-decoration:none;
 }
 a:hover {
-  color: orange;
-  text-decoration: underline;
+    color: orange;
+    text-decoration: underline;
 }
 img{
     Max-width: 100%;
